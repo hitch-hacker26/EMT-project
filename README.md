@@ -1,2 +1,2 @@
 # EMT-project
-Mansuripur's paradox breif description by David J. Griffiths
+Mansuripur's paradox brief description by David J. Griffiths
